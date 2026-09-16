@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=220&section=header&text=Mohd%20Dilshad%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Software%20%2F%20Java%20Developer&descFontSize=18&descFontColor=E0F2FE" alt="Mohd Dilshad Khan header banner" />
 
-<a href="https://github.com/mohddilshadkhan61816-lab">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Let%27s+Make+Something+Valuable%2C+Fast+and+Attractive+%F0%9F%9A%80%F0%9F%94%A5" alt="Typing introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=14B8A6&center=true&vCenter=true&width=1000&height=45&lines=Let's+Make+Something+Valuable%2C+Fast+and+Attractive+%F0%9F%9A%80+%E2%9C%A8" alt="Let's Make Something Valuable, Fast and Attractive" />
+
+<h3>🚀✨ Let's Make Something Valuable, Fast and Attractive ✨🚀</h3>
 
 </div>
 
@@ -126,7 +126,7 @@ const dilshad = {
 <a href="https://github.com/mohddilshadkhan61816-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="mailto:mohddilshadkhan61816@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" alt="Gmail" /></a>
 
-<i>"I am a dependable team player with strong problem-solving ability, attention to detail, and a genuine eagerness to learn new tools and technologies. I approach challenges methodically and am confident that my adaptability will help me contribute meaningfully from day one."</i>
+<i>"I am a dependable team player with strong problem-solving ability, attention to detail, and a genuine eagerness to learn new tools and technologies."</i>
 
 </div>
 
