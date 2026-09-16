@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=220&section=header&text=Mohd%20Dilshad%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Java%20%26%20Python%20Developer&descFontSize=18&descFontColor=E0F2FE" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=220&section=header&text=Mohd%20Dilshad%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Java%20%26%20Python%20Developer&descFontSize=18&descFontColor=E0F2FE" alt="Mohd Dilshad Khan header banner" />
 
 <a href="https://github.com/mohddilshadkhan61816-lab">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+%7C+Python+Developer;Full-Stack+Web+Applications;OOP+%7C+DSA+%7C+JDBC+%7C+JSP;Open+to+Software+Developer+%2F+Tester+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+%7C+Python+Developer;Full-Stack+Web+Applications;OOP+%7C+DSA+%7C+JDBC+%7C+JSP;Currently+open+to+Software+%2F+Java+%2F+Python+Developer+roles" alt="Typing introduction" />
 </a>
 
 </div>
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### 🟢 Currently open to **Software Developer / Python Developer / Software Tester** roles
+### 🟢 Currently open to **Software / Java / Python Developer** roles
 
 </div>
 
@@ -48,14 +48,14 @@ const dilshad = {
 ### 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,jsp,spring,mysql,git,github,vscode,linux,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,spring,mysql,git,github,vscode,linux,postman&perline=8" alt="Technology icons" />
 </p>
 
 ---
 
 ### 📚 Education
 
-- 🎓 **B.Tech. in Computer Science & Engineering** — Medi-Caps University, Indore  (2022 - 2026)
+- 🎓 **B.Tech. in Computer Science & Engineering** — Medi-Caps University, Indore (2022–2026)
   - CGPA: **7.2/10**
 - 🏫 **Class XII** — Shri Ranjeet Pandit Inter College, Prayagraj (2020)
   - Percentage: **59.8%**
@@ -84,7 +84,7 @@ const dilshad = {
 
 ### 🤝 Leadership & Volunteering
 
-- **National Service Scheme (NSS) - Senior Volunteer** (2023 - 2026)
+- **National Service Scheme (NSS) — Senior Volunteer** (2023–2026)
   - Earned **NSS 'B' Certificate** from Devi Ahilya Vishwavidyalaya, Indore
 
 ---
@@ -125,7 +125,7 @@ const dilshad = {
 <a href="https://github.com/mohddilshadkhan61816-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="mailto:mohddilshadkhan61816@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" alt="Gmail" /></a>
 
-<i>"I am a dependable team player with strong problem-solving ability, attention to detail, and a genuine eagerness to learn new tools and technologies. I approach challenges methodically and am confident that my adaptability will help me contribute meaningfully from day one."</i>
+<i>"I am a dependable team player with strong problem-solving ability, attention to detail, and a genuine eagerness to learn new tools and technologies."</i>
 
 </div>
 
