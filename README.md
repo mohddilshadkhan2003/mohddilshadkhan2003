@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=220&section=header&text=Mohd%20Dilshad%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Software%20%2F%20Java%20Developer&descFontSize=18&descFontColor=E0F2FE" alt="Mohd Dilshad Khan header banner" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=14B8A6&center=true&vCenter=true&width=1000&height=45&lines=Let%27s+Make+Something+Valuable%2C+Fast+and+Attractive+%F0%9F%9A%80+%E2%9C%A8" alt="Let's Make Something Valuable, Fast and Attractive" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=14B8A6&center=true&vCenter=true&width=1000&height=45&lines=Let's+Make+Something+Valuable%2C+Fast+and+Attractive+%F0%9F%9A%80+%E2%9C%A8" alt="Let's Make Something Valuable, Fast and Attractive" />
 
 </div>
 
@@ -88,16 +88,14 @@ const dilshad = {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohddilshadkhan61816-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mohddilshadkhan61816-lab&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddilshadkhan61816-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohddilshadkhan61816-lab&theme=tokyo-night&hide_border=true&area=true" height="165" alt="Activity Graph" />
+  <img src="https://img.shields.io/github/followers/mohddilshadkhan61816-lab?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mohddilshadkhan61816-lab?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Repositories-Active-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ---
