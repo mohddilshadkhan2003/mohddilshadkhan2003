@@ -1,70 +1,72 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mohd+Dilshad+Khan!;Java+Developer+%7C+Backend+Engineer;Building+scalable+solutions+with+Java..." alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=Mohd%20Dilshad%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Problem%20Solver&descFontSize=18&descFontColor=E0E7FF" alt="Header Banner" />
+
+<a href="https://github.com/mohddilshadkhan61816-lab">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer+%2B+Backend+Engineer;Spring+Boot+%7C+MySQL+%7C+REST+APIs;Building+scalable+real-world+solutions;Open+to+Java+Backend+%2F+Developer+roles" alt="Typing SVG" />
+</a>
+
 </div>
 
 <p align="center">
-  <a href="https://github.com/mohddilshadkhan61816-lab" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/share/1CFradfUqa/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:mohddilshadkhan61816@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/mohddilshadkhan61816-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/share/1CFradfUqa/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:mohddilshadkhan61816@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mohddilshadkhan61816-lab&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohddilshadkhan61816-lab&label=Profile+Views&color=7B61FF&style=flat-square" alt="Profile Views" />
+
+### 🟢 Currently open to **Java Backend / Software Developer** roles
+
 </div>
 
-## 🚀 About Me
+---
 
-I’m a Java-focused developer passionate about building backend applications, database-driven systems, and real-world software solutions. I enjoy solving practical problems with clean architecture, scalable code, and efficient development practices.
+### ⚡ About Me
 
-- 🔭 Currently working on Java-based backend and database integration projects
-- 👯 Open to collaboration on Java, Spring, and software engineering ideas
-- 🌱 Learning advanced backend development, system design, and performance optimization
-- 💬 Ask me about Java, backend logic, APIs, and database design
-- ⚡ Fun fact: I enjoy turning complex ideas into practical, working solutions
+```typescript
+const dilshad = {
+  role: "Java Backend Developer",
+  focus: ["Backend development", "Database integration", "Real-world problem solving"],
+  stack: ["Java", "Spring Boot", "Hibernate", "MySQL", "REST APIs", "Git/GitHub"],
+  currentlyBuilding: "scalable backend systems and database-driven applications",
+  currentlyLearning: ["Advanced Java", "System design", "Performance optimization"],
+  funFact: "I build solutions that work in the real world, not just on paper ☕",
+};
+```
+
+- 🚀 Passionate about building clean, efficient, and scalable backend applications
+- 🏗️ Experienced in Java-based projects involving backend logic, database connectivity, and API flow
+- 🤝 Open to collaborating on Java, Spring Boot, and software engineering ideas
+- 📈 Continuously improving my skills in backend architecture, optimization, and problem solving
+- 💬 Ask me about **Java, Spring Boot, Hibernate, MySQL, REST APIs, and backend development**
 
 ---
 
-## 🧠 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+### 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohddilshadkhan61816-lab&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohddilshadkhan61816-lab&theme=shadow_blue&hide_border=false" alt="GitHub Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddilshadkhan61816-lab&theme=shadow_blue&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,html,css,git,github,maven,postman,idea&perline=8" />
 </p>
 
 ---
 
-## 🏆 Achievements
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohddilshadkhan61816-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohddilshadkhan61816-lab&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddilshadkhan61816-lab&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohddilshadkhan61816-lab&theme=tokyo-night&hide_border=true&height=165&area=true" height="165" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohddilshadkhan61816-lab&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -72,25 +74,16 @@ I’m a Java-focused developer passionate about building backend applications, d
 
 ---
 
-## ✨ Current Focus
-
-- Building efficient backend logic with Java
-- Improving database design and optimization skills
-- Exploring clean coding and real-world project architecture
-- Collaborating on meaningful technical solutions
-
----
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
+### 🌍 Let's Connect
+
+<a href="https://github.com/mohddilshadkhan61816-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://www.facebook.com/share/1CFradfUqa/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" alt="Facebook" /></a>
+<a href="mailto:mohddilshadkhan61816@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" alt="Gmail" /></a>
+
+<i>"Great products are built by understanding users and solving real problems."</i>
+
 </div>
 
-<p align="center">
-  <b>Great products are built by understanding user needs and solving real problems.</b>
-</p>
-
----
-
-<p align="center">
-  <i>Made with passion for building better software.</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=100&section=footer" alt="Footer Banner" />
