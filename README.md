@@ -125,7 +125,7 @@ const dilshad = {
 <a href="https://github.com/mohddilshadkhan61816-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="mailto:mohddilshadkhan61816@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" alt="Gmail" /></a>
 
-<i>"I am a dependable team player with strong problem-solving ability, attention to detail, and a genuine eagerness to learn new tools and technologies."</i>
+<i>"I am a dependable team player with strong problem-solving ability, attention to detail, and a genuine eagerness to learn new tools and technologies. I approach challenges methodically and am confident that my adaptability will help me contribute meaningfully from day one."</i>
 
 </div>
 
