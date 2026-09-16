@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=14B8A6&center=true&vCenter=true&width=1000&height=45&lines=Let's+Make+Something+Valuable%2C+Fast+and+Attractive+%F0%9F%9A%80+%E2%9C%A8" alt="Let's Make Something Valuable, Fast and Attractive" />
 
-<h3>🚀✨ Let's Make Something Valuable, Fast and Attractive ✨🚀</h3>
-
 </div>
 
 <p align="center">
@@ -100,14 +98,6 @@ const dilshad = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddilshadkhan61816-lab&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohddilshadkhan61816-lab&theme=tokyo-night&hide_border=true&height=165&area=true" height="165" alt="Activity Graph" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohddilshadkhan61816-lab/mohddilshadkhan61816-lab/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
