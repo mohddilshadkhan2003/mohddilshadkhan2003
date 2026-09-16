@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=220&section=header&text=Mohd%20Dilshad%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Java%20and%20Python%20Developer&descFontSize=18&descFontColor=E0F2FE" alt="Mohd Dilshad Khan header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=220&section=header&text=Mohd%20Dilshad%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Software%20%2F%20Java%20Developer&descFontSize=18&descFontColor=E0F2FE" alt="Mohd Dilshad Khan header banner" />
 
 <a href="https://github.com/mohddilshadkhan61816-lab">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+%7C+Python+Developer;Full-Stack+Web+Applications;OOP+%7C+DSA+%7C+JDBC+%7C+JSP;Currently+open+to+Software+%2F+Java+%2F+Python+Developer+roles" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Let%27s+Make+Something+Valuable%2C+Fast+and+Attractive+%F0%9F%9A%80%F0%9F%94%A5" alt="Typing introduction" />
 </a>
 
 </div>
@@ -26,13 +26,14 @@
 
 ```typescript
 const dilshad = {
-  role: "Computer Science Engineering Student",
+  role: "Software / Java Developer",
+  education: "CSE Graduate",
   focus: ["Java", "Python", "OOP", "DSA", "JDBC", "JSP", "MVC"],
   stack: ["Java", "Python", "HTML5", "CSS3", "JSP", "MySQL", "Git", "GitHub"],
-  currentlyBuilding: "real-world web applications and backend-focused solutions",
+  currentlyBuilding: "real-world web applications and backend-driven solutions",
   currentlyLearning: ["Spring Basics", "NoSQL", "Backend systems", "Software testing"],
   softSkills: ["Problem Solving", "Analytical Thinking", "Team Collaboration"],
-  motto: "Write clean code, test thoroughly, and keep learning every day 💡",
+  motto: "Let's make something valuable, fast and attractive 🚀✨",
 };
 ```
 
