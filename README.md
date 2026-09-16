@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=220&section=header&text=Mohd%20Dilshad%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Java%20%26%20Python%20Developer&descFontSize=18&descFontColor=E0F2FE" alt="Mohd Dilshad Khan header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=220&section=header&text=Mohd%20Dilshad%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Java%20and%20Python%20Developer&descFontSize=18&descFontColor=E0F2FE" alt="Mohd Dilshad Khan header banner" />
 
 <a href="https://github.com/mohddilshadkhan61816-lab">
   <img src="https://readme-typing-svg.demolab.com/?lines=Java+%7C+Python+Developer;Full-Stack+Web+Applications;OOP+%7C+DSA+%7C+JDBC+%7C+JSP;Currently+open+to+Software+%2F+Java+%2F+Python+Developer+roles" alt="Typing introduction" />
