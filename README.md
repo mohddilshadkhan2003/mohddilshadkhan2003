@@ -15,13 +15,10 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohddilshadkhan61816-lab&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohddilshadkhan61816-lab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mohddilshadkhan61816-lab&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohddilshadkhan61816-lab&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=mohddilshadkhan61816-lab&icon=10&color=13)](https://visitcount.itsvg.in)
