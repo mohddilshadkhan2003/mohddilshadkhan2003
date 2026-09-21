@@ -7,6 +7,14 @@
     <strong>Learning, building, and refining software solutions with a strong foundation in backend development and problem solving.</strong>
   </p>
 
+  <div align="center">
+    <p>
+      <strong style="display:inline-block; border:1px solid #14B8A6; border-radius:999px; padding:10px 20px; background:rgba(20,184,166,0.08); color:#0F172A; font-weight:800; letter-spacing:0.03em;">
+        Code. Create. Innovate. Repeat. 💻⚡
+      </strong>
+    </p>
+  </div>
+
   <p>
     <a href="https://github.com/mohddilshadkhan61816-lab">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
