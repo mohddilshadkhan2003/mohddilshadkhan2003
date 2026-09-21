@@ -1,6 +1,6 @@
 <div align="center">
   <div style="position:relative; width:100%; max-width:1400px; height:360px; background:linear-gradient(90deg, #1d4ed8 0%, #2c54db 26%, #5a3fc8 100%); border-radius:0; overflow:hidden; box-shadow:0 12px 28px rgba(37,99,235,0.12); border:1px solid rgba(255,255,255,0.06);">
-    <div style="position:absolute; left:26px; top:26px; width:64px; height:64px; border-radius:16px; background:rgba(15,23,42,0.22); border:1px solid rgba(255,255,255,0.16); display:flex; align-items:center; justify-content:center; font-size:32px; box-shadow:0 10px 18px rgba(15,23,42,0.16);">🤖</div>
+    <div style="position:absolute; left:26px; top:26px; width:64px; height:64px; border-radius:16px; background:rgba(15,23,42,0.22); border:1px solid rgba(255,255,255,0.16); display:flex; align-items:center; justify-content:center; font-size:28px; font-weight:900; color:#ffffff; box-shadow:0 10px 18px rgba(15,23,42,0.16);">M</div>
 
     <div style="position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; padding:18px 20px;">
       <div style="font-size:72px; font-weight:900; line-height:1.1; letter-spacing:-1.8px; color:#ffffff; font-family:Segoe UI, Arial, sans-serif;">Mohd Dilshad Khan</div>
