@@ -1,10 +1,10 @@
 <div align="center">
-  <div style="width:100%; max-width:1400px; background:linear-gradient(90deg, #1d4ed8 0%, #2f54db 25%, #5b3cc5 100%); border-radius:26px; box-shadow:0 12px 30px rgba(37,99,235,0.18); padding:28px 24px 34px; margin:8px auto 18px; border:1px solid rgba(255,255,255,0.12);">
-    <div style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
-      <div style="width:56px; height:56px; border-radius:16px; background:rgba(15, 23, 42, 0.25); border:1px solid rgba(255,255,255,0.2); display:flex; align-items:center; justify-content:center; font-size:28px; box-shadow:0 10px 20px rgba(15,23,42,0.12);">🤖</div>
+  <div style="width:100%; max-width:1400px; background:linear-gradient(90deg, #1f4ed8 0%, #3d52d9 28%, #5f3cc8 100%); border-radius:28px; padding:30px 24px 22px; border:1px solid rgba(255,255,255,0.10); box-shadow:0 14px 28px rgba(37,99,235,0.18);">
+    <div style="display:flex; align-items:center; justify-content:center; gap:18px; flex-wrap:wrap;">
+      <div style="width:58px; height:58px; border-radius:16px; background:rgba(15,23,42,0.22); border:1px solid rgba(255,255,255,0.18); display:flex; align-items:center; justify-content:center; font-size:32px; box-shadow:0 8px 16px rgba(15,23,42,0.15);">🤖</div>
       <div style="text-align:center;">
-        <div style="font-size:68px; font-weight:900; line-height:1.06; letter-spacing:-1.5px; color:#ffffff; font-family:Segoe UI, Arial, sans-serif;">Mohd Dilshad Khan</div>
-        <div style="font-size:30px; font-weight:800; line-height:1.3; color:#eaf6ff; margin-top:10px; letter-spacing:0.2px; font-family:Segoe UI, Arial, sans-serif;">Code. Create. Innovate. Repeat. 💻⚡</div>
+        <div style="font-size:62px; font-weight:900; line-height:1.1; letter-spacing:-1.5px; color:#ffffff; font-family:Segoe UI, Arial, sans-serif;">Mohd Dilshad Khan</div>
+        <div style="font-size:28px; font-weight:800; line-height:1.3; color:#ebf8ff; margin-top:10px; letter-spacing:0.15px; font-family:Segoe UI, Arial, sans-serif;">Code. Create. Innovate. Repeat. 💻⚡</div>
       </div>
     </div>
   </div>
