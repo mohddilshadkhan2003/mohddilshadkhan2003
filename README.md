@@ -3,10 +3,6 @@
 
   <h1>Software Developer | Java • Python • Backend Enthusiast</h1>
 
-  <p>
-    <strong>Learning, building, and refining software solutions with a strong foundation in backend development and problem solving.</strong>
-  </p>
-
   <div align="center">
     <p>
       <strong style="display:inline-block; border:1px solid #14B8A6; border-radius:999px; padding:10px 20px; background:rgba(20,184,166,0.08); color:#0F172A; font-weight:800; letter-spacing:0.03em;">
@@ -14,6 +10,10 @@
       </strong>
     </p>
   </div>
+
+  <p>
+    <strong>Learning, building, and refining software solutions with a strong foundation in backend development and problem solving.</strong>
+  </p>
 
   <p>
     <a href="https://github.com/mohddilshadkhan61816-lab">
