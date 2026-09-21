@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:14B8A6&height=220&section=header&text=Mohd%20Dilshad%20Khan%0ACode.%20Create.%20Innovate.%20Repeat.%20%F0%9F%92%BB%EF%B8%8F&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34" alt="Mohd Dilshad Khan banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:14B8A6&height=240&section=header&text=Mohd%20Dilshad%20Khan%0ACode.%20Create.%20Innovate.%20Repeat.%20%F0%9F%92%BB%EF%B8%8F&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30" alt="Mohd Dilshad Khan banner" width="100%" />
 
   <h1>Software Developer | Java • Python • Backend Enthusiast</h1>
 
