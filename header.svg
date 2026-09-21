@@ -1,11 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 360" role="img" aria-labelledby="title desc">
   <title id="title">Mohd Dilshad Khan — Code. Create. Innovate. Repeat.</title>
-  <desc id="desc">A blue and purple developer profile header banner.</desc>
+  <desc id="desc">Animated blue and purple developer profile header banner.</desc>
   <defs>
     <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1d4ed8"/>
-      <stop offset="52%" stop-color="#354fda"/>
-      <stop offset="100%" stop-color="#5a3fc8"/>
+      <stop offset="0%" stop-color="#1d4ed8">
+        <animate attributeName="stop-color" values="#1d4ed8;#4338ca;#1d4ed8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="52%" stop-color="#354fda">
+        <animate attributeName="stop-color" values="#354fda;#5b21b6;#354fda" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#5a3fc8">
+        <animate attributeName="stop-color" values="#5a3fc8;#7c3aed;#5a3fc8" dur="8s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
       <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#07111f" flood-opacity="0.22"/>
@@ -18,6 +24,10 @@
     <text x="720" y="158" font-size="72" font-weight="900">Mohd Dilshad Khan</text>
     <text x="720" y="216" font-size="30" font-weight="700" fill="#eef7ff">Code. Create. Innovate. Repeat. 💻⚡</text>
   </g>
-  <path d="M0 286 C180 236 300 326 450 286 C610 244 760 306 880 286 C1010 262 1120 210 1220 260 C1300 298 1370 298 1440 274 V360 H0 Z" fill="#07111f"/>
-  <path d="M0 298 C150 248 260 318 420 288 C550 262 700 304 860 296 C995 290 1080 238 1190 256 C1295 272 1375 292 1440 280 V360 H0 Z" fill="#0d1d35" opacity=".95"/>
+  <path d="M0 286 C180 236 300 326 450 286 C610 244 760 306 880 286 C1010 262 1120 210 1220 260 C1300 298 1370 298 1440 274 V360 H0 Z" fill="#07111f">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 286 C180 236 300 326 450 286 C610 244 760 306 880 286 C1010 262 1120 210 1220 260 C1300 298 1370 298 1440 274 V360 H0 Z;M0 274 C180 314 300 238 450 278 C610 318 760 252 880 276 C1010 300 1120 238 1220 274 C1300 302 1370 286 1440 294 V360 H0 Z;M0 286 C180 236 300 326 450 286 C610 244 760 306 880 286 C1010 262 1120 210 1220 260 C1300 298 1370 298 1440 274 V360 H0 Z"/>
+  </path>
+  <path d="M0 298 C150 248 260 318 420 288 C550 262 700 304 860 296 C995 290 1080 238 1190 256 C1295 272 1375 292 1440 280 V360 H0 Z" fill="#0d1d35" opacity=".95">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 298 C150 248 260 318 420 288 C550 262 700 304 860 296 C995 290 1080 238 1190 256 C1295 272 1375 292 1440 280 V360 H0 Z;M0 288 C150 326 260 256 420 296 C550 320 700 270 860 304 C995 320 1080 252 1190 276 C1295 298 1375 270 1440 290 V360 H0 Z;M0 298 C150 248 260 318 420 288 C550 262 700 304 860 296 C995 290 1080 238 1190 256 C1295 272 1375 292 1440 280 V360 H0 Z"/>
+  </path>
 </svg>
