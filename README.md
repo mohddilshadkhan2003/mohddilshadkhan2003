@@ -1,15 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:14B8A6&height=220&section=header&text=Mohd%20Dilshad%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34" alt="Mohd Dilshad Khan banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:14B8A6&height=220&section=header&text=Mohd%20Dilshad%20Khan%0ACode.%20Create.%20Innovate.%20Repeat.%20%F0%9F%92%BB%EF%B8%8F&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34" alt="Mohd Dilshad Khan banner" width="100%" />
 
   <h1>Software Developer | Java • Python • Backend Enthusiast</h1>
-
-  <div align="center">
-    <p>
-      <strong style="display:inline-block; border:1px solid #14B8A6; border-radius:999px; padding:10px 20px; background:rgba(20,184,166,0.08); color:#0F172A; font-weight:800; letter-spacing:0.03em;">
-        Code. Create. Innovate. Repeat. 💻⚡
-      </strong>
-    </p>
-  </div>
 
   <p>
     <strong>Learning, building, and refining software solutions with a strong foundation in backend development and problem solving.</strong>
