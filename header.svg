@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 360" role="img" aria-labelledby="title desc">
   <title id="title">Mohd Dilshad Khan — Code. Create. Innovate. Repeat.</title>
-  <desc id="desc">Animated blue and purple developer profile header banner.</desc>
+  <desc id="desc">Animated, floating blue and purple developer profile header banner.</desc>
   <defs>
     <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#1d4ed8">
@@ -13,17 +13,38 @@
         <animate attributeName="stop-color" values="#5a3fc8;#7c3aed;#5a3fc8" dur="8s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
       <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#07111f" flood-opacity="0.22"/>
     </filter>
   </defs>
+
   <rect width="1440" height="360" fill="url(#background)"/>
-  <rect x="24" y="24" width="64" height="64" rx="16" fill="#0f172a" fill-opacity="0.28" stroke="#ffffff" stroke-opacity="0.2"/>
-  <text x="56" y="66" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">M</text>
-  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" fill="#ffffff" filter="url(#shadow)">
-    <text x="720" y="158" font-size="72" font-weight="900">Mohd Dilshad Khan</text>
-    <text x="720" y="216" font-size="30" font-weight="700" fill="#eef7ff">Code. Create. Innovate. Repeat. 💻⚡</text>
+
+  <!-- Soft floating light accents make the hero feel alive without distracting from the text. -->
+  <g opacity=".55">
+    <circle cx="170" cy="100" r="110" fill="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0 8; 34 -12; 0 8" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1260" cy="112" r="150" fill="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0 -10; -38 12; 0 -10" dur="11s" repeatCount="indefinite"/>
+    </circle>
   </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="6s" repeatCount="indefinite"/>
+    <rect x="24" y="24" width="64" height="64" rx="16" fill="#0f172a" fill-opacity="0.28" stroke="#ffffff" stroke-opacity="0.2"/>
+    <text x="56" y="66" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">M</text>
+    <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" fill="#ffffff" filter="url(#shadow)">
+      <text x="720" y="158" font-size="72" font-weight="900">Mohd Dilshad Khan</text>
+      <text x="720" y="216" font-size="30" font-weight="700" fill="#eef7ff">Code. Create. Innovate. Repeat. 💻⚡</text>
+    </g>
+  </g>
+
+  <!-- Animated floating waves at the bottom, matching the dynamic footer treatment. -->
   <path d="M0 286 C180 236 300 326 450 286 C610 244 760 306 880 286 C1010 262 1120 210 1220 260 C1300 298 1370 298 1440 274 V360 H0 Z" fill="#07111f">
     <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 286 C180 236 300 326 450 286 C610 244 760 306 880 286 C1010 262 1120 210 1220 260 C1300 298 1370 298 1440 274 V360 H0 Z;M0 274 C180 314 300 238 450 278 C610 318 760 252 880 276 C1010 300 1120 238 1220 274 C1300 302 1370 286 1440 294 V360 H0 Z;M0 286 C180 236 300 326 450 286 C610 244 760 306 880 286 C1010 262 1120 210 1220 260 C1300 298 1370 298 1440 274 V360 H0 Z"/>
   </path>
