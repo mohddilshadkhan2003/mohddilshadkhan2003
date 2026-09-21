@@ -1,30 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:14B8A6&height=240&section=header&text=Mohd%20Dilshad%20Khan%0ACode.%20Create.%20Innovate.%20Repeat.%20%F0%9F%92%BB%EF%B8%8F&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30" alt="Mohd Dilshad Khan banner" width="100%" />
-
-  <h1>Software Developer | Java • Python • Backend Enthusiast</h1>
-
-  <p>
-    <strong>Learning, building, and refining software solutions with a strong foundation in backend development and problem solving.</strong>
-  </p>
-
-  <p>
-    <a href="https://github.com/mohddilshadkhan61816-lab">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:mohddilshadkhan61816@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=mohddilshadkhan61816-lab&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS" alt="Profile views" />
-  </p>
-
-  <p>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3500&pause=1100&color=14B8A6&center=true&vCenter=true&width=900&height=50&lines=Java+Developer;Python+Developer;Backend+Learner;Problem+Solver;Always+Building" alt="Typing SVG" />
-  </p>
-
-  <p>
-    <strong>🟢 Open to Software, Java, and Python Developer opportunities</strong>
-  </p>
+  <div style="width:100%; max-width:1400px; background:linear-gradient(90deg, #1d4ed8 0%, #2f54db 25%, #5b3cc5 100%); border-radius:26px; box-shadow:0 12px 30px rgba(37,99,235,0.18); padding:28px 24px 34px; margin:8px auto 18px; border:1px solid rgba(255,255,255,0.12);">
+    <div style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
+      <div style="width:56px; height:56px; border-radius:16px; background:rgba(15, 23, 42, 0.25); border:1px solid rgba(255,255,255,0.2); display:flex; align-items:center; justify-content:center; font-size:28px; box-shadow:0 10px 20px rgba(15,23,42,0.12);">🤖</div>
+      <div style="text-align:center;">
+        <div style="font-size:68px; font-weight:900; line-height:1.06; letter-spacing:-1.5px; color:#ffffff; font-family:Segoe UI, Arial, sans-serif;">Mohd Dilshad Khan</div>
+        <div style="font-size:30px; font-weight:800; line-height:1.3; color:#eaf6ff; margin-top:10px; letter-spacing:0.2px; font-family:Segoe UI, Arial, sans-serif;">Code. Create. Innovate. Repeat. 💻⚡</div>
+      </div>
+    </div>
+  </div>
 </div>
+
+<p align="center">
+  <a href="https://github.com/mohddilshadkhan61816-lab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mohddilshadkhan61816@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mohddilshadkhan61816-lab&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3500&pause=1100&color=14B8A6&center=true&vCenter=true&width=900&height=50&lines=Java+Developer;Python+Developer;Backend+Learner;Problem+Solver;Always+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>🟢 Open to Software, Java, and Python Developer opportunities</strong>
+</p>
 
 ---
 
