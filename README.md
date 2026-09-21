@@ -1,17 +1,5 @@
 <div align="center">
-  <div style="position:relative; width:100%; max-width:1400px; height:360px; background:linear-gradient(90deg, #1d4ed8 0%, #2c54db 26%, #5a3fc8 100%); border-radius:0; overflow:hidden; box-shadow:0 12px 28px rgba(37,99,235,0.12); border:1px solid rgba(255,255,255,0.06);">
-    <div style="position:absolute; left:26px; top:26px; width:64px; height:64px; border-radius:16px; background:rgba(15,23,42,0.22); border:1px solid rgba(255,255,255,0.16); display:flex; align-items:center; justify-content:center; font-size:28px; font-weight:900; color:#ffffff; box-shadow:0 10px 18px rgba(15,23,42,0.16);">M</div>
-
-    <div style="position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; padding:18px 20px;">
-      <div style="font-size:72px; font-weight:900; line-height:1.1; letter-spacing:-1.8px; color:#ffffff; font-family:Segoe UI, Arial, sans-serif;">Mohd Dilshad Khan</div>
-      <div style="font-size:30px; font-weight:800; line-height:1.3; color:#edf7ff; margin-top:12px; letter-spacing:0.1px; font-family:Segoe UI, Arial, sans-serif;">Code. Create. Innovate. Repeat. 💻⚡</div>
-    </div>
-
-    <svg viewBox="0 0 1440 170" preserveAspectRatio="none" style="position:absolute; left:0; right:0; bottom:-2px; width:100%; height:120px; display:block;">
-      <path d="M0,120 C180,70 300,160 450,120 C610,78 760,140 880,120 C1010,96 1120,44 1220,94 C1300,132 1370,132 1440,108 L1440,170 L0,170 Z" fill="#07111f" opacity="0.98"></path>
-      <path d="M0,130 C150,80 260,150 420,120 C550,94 700,136 860,128 C995,122 1080,70 1190,88 C1295,104 1375,124 1440,112 L1440,170 L0,170 Z" fill="#0d1d35" opacity="0.92"></path>
-    </svg>
-  </div>
+  <img src="./header.svg" alt="Mohd Dilshad Khan — Code. Create. Innovate. Repeat." width="100%" />
 </div>
 
 <p align="center">
