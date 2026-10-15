@@ -3,17 +3,17 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/mohddilshadkhan61816-lab">
+  <a href="https://github.com/mohddilshadkhan2003">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:mohddilshadkhan61816@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mohddilshadkhan61816-lab&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohddilshadkhan2003&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3500&pause=1100&color=14B8A6&center=true&vCenter=true&width=900&height=50&lines=Java+Developer;Python+Developer;Backend+Learner;Problem+Solver;Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3500&pause=1100&color=14B8A6&center=true&vCenter=true&width=900&height=50&lines=Java+Developer;Python+Developer;Backend+Engineer;Problem+Solver" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 👋 About me
 
-I’m a Computer Science and Engineering student with a strong interest in software development, backend engineering, and real-world problem solving. My core focus is building maintainable applications, understanding systems deeply, and continuously improving my technical foundations in Java, Python, databases, and web development.
+I’m a Computer Science and Engineering student with a strong interest in software development, backend engineering, and real-world problem solving. My core focus is building maintainable applications, solving practical challenges, and improving coding quality over time.
 
 I enjoy turning ideas into practical solutions and learning by doing. Whether it’s debugging, designing logic, working with databases, or writing cleaner code, I value clarity, structure, and continuous improvement.
 
@@ -76,12 +76,12 @@ public class Dilshad {
 ## 📊 GitHub overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohddilshadkhan61816-lab&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=14B8A6&text_color=475569&rank_icon=github" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddilshadkhan61816-lab&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohddilshadkhan2003&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=14B8A6&text_color=475569&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddilshadkhan2003&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohddilshadkhan61816-lab&hide_border=true&theme=transparent&ring=2563EB&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=475569" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mohddilshadkhan2003&hide_border=true&theme=transparent&ring=2563EB&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=475569" alt="GitHub Streak" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ public class Dilshad {
 I’m open to internships, software roles, collaborative work, and learning opportunities in development and backend engineering.
 
 <p align="center">
-  <a href="https://github.com/mohddilshadkhan61816-lab"><strong>GitHub</strong></a>
+  <a href="https://github.com/mohddilshadkhan2003"><strong>GitHub</strong></a>
   &nbsp; · &nbsp;
   <a href="mailto:mohddilshadkhan61816@gmail.com"><strong>Email</strong></a>
 </p>
