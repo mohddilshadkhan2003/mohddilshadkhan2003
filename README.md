@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <strong>🟢 Open to Software, Java, and Python Developer opportunities</strong>
+  <strong>🟢 Open to Software, Java, and Back-End Developer opportunities</strong>
 </p>
 
 ---
