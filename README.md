@@ -38,7 +38,7 @@ public class Dilshad {
 
 ### Core strengths
 
-- Strong foundation in **Java**, **Python**, **OOP**, **DSA**, and **database concepts**
+- Strong foundation in **Java**, **Spring Boot**, **Python**, **OOP**, **DSA**, and **database concepts**
 - Experience in **web development** using **HTML, CSS, JSP, MVC**, and **MySQL**
 - Ability to debug issues, analyze code logically, and improve software quality
 - Practical understanding of building applications with maintainable structure and user focus
@@ -53,7 +53,7 @@ public class Dilshad {
 | Programming Languages | Java, Python |
 | Web Development | HTML5, CSS3, JSP, MVC |
 | Backend & Database | JDBC, MySQL, SQL, NoSQL fundamentals |
-| Frameworks / Concepts | Spring Basics, OOP, DSA, MVC |
+| Frameworks / Concepts | Spring Boot, OOP, DSA, MVC |
 | Tools | Git, GitHub, VS Code, Postman, Linux, MS Excel |
 | Software Practices | Debugging, Code Analysis, Testing, Documentation |
 
