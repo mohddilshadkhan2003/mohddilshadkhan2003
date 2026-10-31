@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3500&pause=1100&color=14B8A6&center=true&vCenter=true&width=900&height=50&lines=Java+Developer;Software+Developer;Backend+Engineer;Problem+Solver;Interactive+Person+and+Leadrer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3500&pause=1100&color=14B8A6&center=true&vCenter=true&width=900&height=50&lines=Java+Developer;Software+Developer;Backend+Engineer;Problem+Solver;Interactive+Person+and+Leader" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 👋 About me
 
-I’m a Computer Science and Engineering student with a strong interest in software development, backend engineering, and real-world problem solving. My core focus is building maintainable applications, learning through implementation, and continuously improving my technical skills.
+I’m a **B.Tech - Computer Science and Engineering** graduate from **Medicaps University, Indore** with a strong interest in software development, backend engineering, and real-world problem solving. My core focus is building maintainable applications, learning through implementation, and continuously improving my technical skills.
 
 I enjoy turning ideas into practical solutions and learning by doing. Whether it’s debugging, designing logic, working with databases, or writing cleaner code, I value clarity, structure, and continuous improvement.
 
@@ -40,7 +40,7 @@ public class Dilshad {
 
 - Strong foundation in **Java**, **Spring Boot**, **Python**, **OOP**, **DSA**, and **database concepts**
 - Experience in **web development** using **HTML, CSS, JSP, MVC**, and **MySQL**
-- Ability to debug issues, analyze code logically, and improve software quality
+- Ability to **debug issues, analyze code logically, and improve software quality**
 - Practical understanding of building applications with maintainable structure and user focus
 - Good team collaboration mindset with a strong desire to learn and adapt
 
@@ -66,9 +66,9 @@ public class Dilshad {
 ## 🚀 Current focus
 
 - 🔭 Building practical web and backend-driven solutions
-- 🌱 Learning **Spring**, **NoSQL**, and backend system fundamentals
+- 🌱 Learning **Spring Boot**, **NoSQL**, and **backend system fundamentals**
 - 🧪 Improving code quality through debugging, testing, and clean architecture habits
-- 💬 Interested in **Java, Python, MVC, JDBC, JSP, MySQL, APIs, and software engineering**
+- 💬 Interested in **Java, Python, MVC, JDBC, JSP, MySQL, APIs, Microservices, and software engineering**
 - 🎯 Goal: become a dependable software engineer with strong backend foundations
 
 ---
@@ -90,9 +90,9 @@ public class Dilshad {
 
 - **B.Tech. in Computer Science & Engineering** — Medi-Caps University, Indore *(2022–2026)*  
   CGPA: **7.2 / 10**
-- **Class XII** — Shri Ranjeet Pandit Inter College, Prayagraj *(2020)*  
+- **Class XII** — Shri Ranjeet Pandit Inter College, Prayagraj *(2019-2020)*  
   Percentage: **59.8%**
-- **Class X** — Hafiz Siddiq National Inter College, Jhansi *(2018)*  
+- **Class X** — Hafiz Siddiq National Inter College, Jhansi *(2017-2018)*  
   Percentage: **74.78%**
 
 ---
@@ -102,7 +102,7 @@ public class Dilshad {
 - ✅ **Agentic AI Certified Foundations Associate** — Oracle *(2026)*
 - ✅ **Internship Common Aptitude Test (ICAT)** *(2025)*
 - ✅ **NSS Senior Volunteer** — Devi Ahilya Vishwavidyalaya, Indore *(2023–2026)*
-- ✅ Earned **NSS 'B' Certificate** for volunteer service and engagement
+- ✅ Earned **NSS 'B' Certificate** for volunteer service and engagement from **DAVV, Indore**
 
 ---
 
@@ -127,12 +127,14 @@ public class Dilshad {
 
 ## 📫 Let’s connect
 
-I’m open to internships, software roles, collaborative work, and learning opportunities in development and backend engineering.
+I’m open to full time software roles, collaborative work, and learning opportunities in development and backend engineering.
 
 <p align="center">
   <a href="https://github.com/mohddilshadkhan2003"><strong>GitHub</strong></a>
   &nbsp; · &nbsp;
   <a href="mailto:mohddilshadkhan61816@gmail.com"><strong>Email</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.instagram.com/_imohddilshadkhan.007_/"><strong>Instagram</strong></a>
 </p>
 
 <div align="center">
