@@ -80,6 +80,10 @@ public class Dilshad {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddilshadkhan2003&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569" alt="Top languages" width="360" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohddilshadkhan2003&hide_border=true&theme=transparent&ring=2563EB&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=475569" alt="GitHub streak" />
+</p>
+
 ---
 
 ## 🎓 Education
