@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3500&pause=1100&color=14B8A6&center=true&vCenter=true&width=900&height=50&lines=Java+Developer;Software+Developer;Backend+Engineer;Problem+Solver;Interactive+Person+and+Leader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3500&pause=1100&color=14B8A6&center=true&vCenter=true&width=900&height=50&lines=Java+Developer;Software+Developer;Backend+Enthusiast;Problem+Solver" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 👋 About me
 
-I’m a **B.Tech - Computer Science and Engineering** graduate from **Medicaps University, Indore** with a strong interest in software development, backend engineering, and real-world problem solving. My core focus is building maintainable applications, learning through implementation, and continuously improving my technical skills.
+I’m a **B.Tech - Computer Science and Engineering** graduate from **Medicaps University, Indore** with a strong interest in software development, backend engineering, and real-world problem solving.
 
 I enjoy turning ideas into practical solutions and learning by doing. Whether it’s debugging, designing logic, working with databases, or writing cleaner code, I value clarity, structure, and continuous improvement.
 
@@ -76,12 +76,12 @@ public class Dilshad {
 ## 📊 GitHub overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohddilshadkhan2003&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=14B8A6&text_color=475569&count_private=true&hide=stars,commits,prs,issues,contribs" alt="GitHub stats" width="520" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddilshadkhan2003&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569&custom_title=Top%20Languages" alt="Top Languages" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohddilshadkhan2003&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=14B8A6&text_color=475569&count_private=true" alt="GitHub stats" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddilshadkhan2003&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569" alt="Top languages" width="360" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohddilshadkhan2003&hide_border=true&theme=transparent&ring=2563EB&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=475569" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mohddilshadkhan2003&hide_border=true&theme=transparent&ring=2563EB&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=475569" alt="GitHub streak" />
 </p>
 
 ---
