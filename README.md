@@ -81,7 +81,7 @@ public class Dilshad {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohddilshadkhan2003&hide_border=true&theme=transparent&ring=2563EB&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=475569" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohddilshadkhan2003&theme=transparent&hide_border=true&ring=2563EB&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=475569" alt="GitHub streak" />
 </p>
 
 ---
