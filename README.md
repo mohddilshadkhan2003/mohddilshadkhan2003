@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <strong>🟢 Open to Software, Java, and Back-End Developer opportunities</strong>
+  <strong>🟢 Open to Software, Java, and Back-End Developer roles</strong>
 </p>
 
 ---
@@ -30,7 +30,7 @@ I enjoy turning ideas into practical solutions and learning by doing. Whether it
 
 ```java
 public class Dilshad {
-    String role = "Software Developer";
+    String role = "Software/Java Developer";
     String focus = "Java, Python, backend systems, and problem solving";
     String mindset = "Learn deeply, build clearly, improve continuously";
 }
@@ -38,11 +38,11 @@ public class Dilshad {
 
 ### Core strengths
 
-- Strong foundation in **Java**, **Spring Boot**, **Python**, **OOP**, **DSA**, and **database concepts**
-- Experience in **web development** using **HTML, CSS, JSP, MVC**, and **MySQL**
-- Ability to **debug issues, analyze code logically, and improve software quality**
-- Practical understanding of building applications with maintainable structure and user focus
-- Good team collaboration mindset with a strong desire to learn and adapt
+- Strong foundation in **Java**, **Spring Boot**, **Python**, **OOP**, **DSA**, and **database concepts**.
+- Experience in **web development** using **HTML, CSS, JSP, MVC**, and **MySQL**.
+- Ability to **debug issues, analyze code logically, and improve software quality**.
+- Practical understanding of **building applications with maintainable structure and user focus**.
+- Good **team collaboration mindset** with a **strong desire to learn and adapt**.
 
 ---
 
@@ -58,7 +58,7 @@ public class Dilshad {
 | Software Practices | Debugging, Code Analysis, Testing, Documentation |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,spring,mysql,git,github,vscode,linux,postman&perline=8" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,spring-boot,mysql,git,github,vscode,linux,postman&perline=8" alt="Technologies" />
 </p>
 
 ---
