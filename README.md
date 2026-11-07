@@ -99,6 +99,7 @@ public class Dilshad {
 
 ## 🏆 Certifications & achievements
 
+- ✅ **Java Developer (174/174 scored in assessment)** — TECHNOMANCERAI *(2026)*
 - ✅ **Agentic AI Certified Foundations Associate** — Oracle *(2026)*
 - ✅ **Internship Common Aptitude Test (ICAT)** *(2025)*
 - ✅ **NSS Senior Volunteer** — Devi Ahilya Vishwavidyalaya, Indore *(2023–2026)*
