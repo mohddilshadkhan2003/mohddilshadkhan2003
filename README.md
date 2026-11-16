@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=70&lines=Java+Developer;Backend+Engineer;Software+Builder;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:14F195&height=180&section=header&text=Mohd%20Dilshad%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Mohd Dilshad Khan — profile banner" width="100%" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=900&height=50&lines=Java+Developer;Backend+Engineer;Software+Builder;Problem+Solver" alt="Java Developer, Backend Engineer, Software Builder, Problem Solver" />
 </div>
 
 <p align="center">
@@ -15,13 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=mohddilshadkhan2003&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:14F195&height=140&section=header&text=Hello%20World!" alt="Header banner" width="100%" />
-</p>
-
-<p align="center">
-  <strong>🟢 Open to Software, Java, and Back-End Developer roles</strong>
-</p>
+<p align="center"><strong>🟢 Open to Software, Java, and Back-End Developer roles</strong></p>
 
 ---
 
@@ -52,7 +48,7 @@ public class Dilshad {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,spring,hibernate,mysql,git,github,vscode,linux,postman&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,spring,mysql,git,github,vscode,linux,postman&perline=8" alt="Java, Python, HTML, CSS, Spring, MySQL, Git, GitHub, VS Code, Linux, and Postman" />
 </p>
 
 | Category | Technologies |
@@ -126,8 +122,8 @@ public class Dilshad {
 - Cricket
 - Chess
 - Badminton
-- Traveling
-- Riding Bikes
+- Travelling
+- Riding bikes
 
 ---
 
