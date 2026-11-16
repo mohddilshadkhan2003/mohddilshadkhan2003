@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="Mohd Dilshad Khan — Code. Create. Innovate. Repeat." width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=70&lines=Java+Developer;Backend+Engineer;Software+Builder;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,11 +9,14 @@
   <a href="mailto:mohddilshadkhan61816@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mohddilshadkhan2003&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://www.instagram.com/_imohddilshadkhan.007_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mohddilshadkhan2003&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3500&pause=1100&color=14B8A6&center=true&vCenter=true&width=900&height=50&lines=Java+Developer;Software+Developer;Backend+Enthusiast;Problem+Solver" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:14F195&height=140&section=header&text=Hello%20World!" alt="Header banner" width="100%" />
 </p>
 
 <p align="center">
@@ -22,15 +25,15 @@
 
 ---
 
-## 👋 About me
+## 👋 About Me
 
-I’m a **B.Tech - Computer Science and Engineering** graduate from **Medicaps University, Indore** with a strong interest in software development, backend engineering, and real-world problem solving.
+I’m a <strong>B.Tech in Computer Science and Engineering</strong> graduate from <strong>Medicaps University, Indore</strong>, with a strong interest in software development, backend engineering, and solving real-world problems with clean, efficient systems.
 
-I enjoy turning ideas into practical solutions and learning by doing. Whether it’s debugging, designing logic, working with databases, or writing cleaner code, I value clarity, structure, and continuous improvement.
+I enjoy turning ideas into practical solutions and learning by doing. Whether it’s debugging, designing logic, working with databases, or writing maintainable code, I value clarity, structure, and continuous improvement.
 
 ```java
 public class Dilshad {
-    String role = "Software/Java Developer";
+    String role = "Software / Java Developer";
     String focus = "Java, Python, backend systems, and problem solving";
     String mindset = "Learn deeply, build clearly, improve continuously";
 }
@@ -38,15 +41,19 @@ public class Dilshad {
 
 ### Core strengths
 
-- Strong foundation in **Java**, **Spring Boot**, **Python**, **OOP**, **DSA**, and **database concepts**.
-- Experience in **web development** using **HTML, CSS, JSP, MVC**, and **MySQL**.
-- Ability to **debug issues, analyze code logically, and improve software quality**.
-- Practical understanding of **building applications with maintainable structure and user focus**.
-- Good **team collaboration mindset** with a **strong desire to learn and adapt**.
+- Strong foundation in <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Python</strong>, <strong>OOP</strong>, <strong>DSA</strong>, and database concepts.
+- Experience in <strong>web development</strong> using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JSP</strong>, <strong>MVC</strong>, and <strong>MySQL</strong>.
+- Ability to <strong>debug issues</strong>, <strong>analyze logic</strong>, and improve software quality.
+- Practical understanding of building applications with maintainable structure and user focus.
+- Good <strong>team collaboration mindset</strong> with a strong desire to learn and adapt.
 
 ---
 
-## 🛠️ Technical stack
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,spring,hibernate,mysql,git,github,vscode,linux,postman&perline=8" alt="Tech stack" />
+</p>
 
 | Category | Technologies |
 | --- | --- |
@@ -57,78 +64,76 @@ public class Dilshad {
 | Tools | Git, GitHub, VS Code, Postman, Linux, MS Excel |
 | Software Practices | Debugging, Code Analysis, Testing, Documentation |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,spring-boot,mysql,git,github,vscode,linux,postman&perline=8" alt="Technologies" />
-</p>
-
 ---
 
-## 🚀 Current focus
+## 🚀 Current Focus
 
 - 🔭 Building practical web and backend-driven solutions
-- 🌱 Learning **Spring Boot**, **NoSQL**, and **backend system fundamentals**
+- 🌱 Learning <strong>Spring Boot</strong>, <strong>NoSQL</strong>, and backend fundamentals
 - 🧪 Improving code quality through debugging, testing, and clean architecture habits
-- 💬 Interested in **Java, Python, MVC, JDBC, JSP, MySQL, APIs, Microservices, and software engineering**
+- 💬 Interested in <strong>Java</strong>, <strong>Python</strong>, <strong>MVC</strong>, <strong>JDBC</strong>, <strong>JSP</strong>, <strong>MySQL</strong>, <strong>APIs</strong>, and software engineering
 - 🎯 Goal: become a dependable software engineer with strong backend foundations
 
 ---
 
-## 📊 GitHub overview
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohddilshadkhan2003&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=14B8A6&text_color=475569&count_private=true" alt="GitHub stats" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddilshadkhan2003&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569" alt="Top languages" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohddilshadkhan2003&show_icons=true&theme=radical&hide_border=true&title_color=7C3AED&icon_color=14F195&text_color=E2E8F0&bg_color=0d1117&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddilshadkhan2003&layout=compact&theme=radical&hide_border=true&title_color=7C3AED&text_color=E2E8F0&bg_color=0d1117&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohddilshadkhan2003&hide_border=true&theme=transparent&ring=2563EB&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=475569" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=mohddilshadkhan2003&theme=radical&hide_border=true&ring=7C3AED&fire=F59E0B&currStreakLabel=14F195&sideLabels=E2E8F0" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech. in Computer Science & Engineering** — Medi-Caps University, Indore *(2022–2026)*  
-  CGPA: **7.2 / 10**
-- **Class XII** — Shri Ranjeet Pandit Inter College, Prayagraj *(2019-2020)*  
-  Percentage: **59.8%**
-- **Class X** — Hafiz Siddiq National Inter College, Jhansi *(2017-2018)*  
-  Percentage: **74.78%**
+- <strong>B.Tech. in Computer Science & Engineering</strong> — Medi-Caps University, Indore <em>(2022–2026)</em>
+  - CGPA: <strong>7.2 / 10</strong>
+- <strong>Class XII</strong> — Shri Ranjeet Pandit Inter College, Prayagraj <em>(2019–2020)</em>
+  - Percentage: <strong>59.8%</strong>
+- <strong>Class X</strong> — Hafiz Siddiq National Inter College, Jhansi <em>(2017–2018)</em>
+  - Percentage: <strong>74.78%</strong>
 
 ---
 
-## 🏆 Certifications & achievements
+## 🏆 Certifications & Achievements
 
-- ✅ **Java Developer (174/174 scored in assessment)** — TECHNOMANCERAI *(2026)*
-- ✅ **Agentic AI Certified Foundations Associate** — Oracle *(2026)*
-- ✅ **Internship Common Aptitude Test (ICAT)** *(2025)*
-- ✅ **NSS Senior Volunteer** — Devi Ahilya Vishwavidyalaya, Indore *(2023–2026)*
-- ✅ Earned **NSS 'B' Certificate** for volunteer service and engagement from **DAVV, Indore**
+- ✅ <strong>Java Developer</strong> — 174/174 scored in assessment, TECHNOMANCERAI <em>(2026)</em>
+- ✅ <strong>Agentic AI Certified Foundations Associate</strong> — Oracle <em>(2026)</em>
+- ✅ <strong>Internship Common Aptitude Test (ICAT)</strong> <em>(2025)</em>
+- ✅ <strong>NSS Senior Volunteer</strong> — DAVV, Indore <em>(2023–2026)</em>
+- ✅ Earned <strong>NSS 'B' Certificate</strong> for volunteer service and engagement
 
 ---
 
-## 🤝 Leadership, strengths & interests
+## 🤝 Leadership, Strengths & Interests
 
 ### Soft skills
-- Problem solving
-- Analytical thinking
-- Team collaboration
+
+- Problem Solving
+- Analytical Thinking
+- Team Collaboration
 - Communication
 - Adaptability
-- Time management
+- Time Management
 
 ### Personal interests
+
 - Cricket
 - Chess
 - Badminton
-- Travelling
-- Riding bikes
+- Traveling
+- Riding Bikes
 
 ---
 
-## 📫 Let’s connect
+## 📫 Let’s Connect
 
-I’m open to full time software roles, collaborative work, and learning opportunities in development and backend engineering.
+I’m open to full-time software roles, collaborative work, and learning opportunities in backend engineering and development.
 
 <p align="center">
   <a href="https://github.com/mohddilshadkhan2003"><strong>GitHub</strong></a>
@@ -140,6 +145,6 @@ I’m open to full time software roles, collaborative work, and learning opportu
 
 <div align="center">
   <em>“Build with purpose, learn consistently, and improve every iteration.”</em>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:2563EB&height=100&section=footer" alt="Footer banner" width="100%" />
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:14F195&height=120&section=footer" alt="Footer banner" width="100%" />
 </div>
